@@ -1,0 +1,11 @@
+body {margin: 0;padding: 0;}
+ #mymap,
+  body,
+  html {height: 100%;}
+
+.info {padding: 6px 14px;
+    background: white;background: rgba(255,255,255,0.2);border-radius: 5px;}
+
+.legend {line-height: 16px;color: 'blue';}
+.legend i {width: 16px;height: 16px;
+    float: left;margin-right: 8px;opacity: 0.85;}
